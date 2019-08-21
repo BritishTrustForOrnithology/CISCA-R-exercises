@@ -1,0 +1,561 @@
+Species,Scientific_name,Place,Date,Start_time,End_time,Count,List_type
+Garganey,Spatula querquedula,North Beach Eilat,31/03/2019,17:00,17:00,4,Incomplete
+Garganey,Spatula querquedula,Km20 saltpans,29/03/2019,16:45,18:30,c50,Complete
+Garganey,Spatula querquedula,North Beach Eilat,28/03/2019,17:40,18:20,c35,Complete
+Shoveler,Spatula clypeata,Km19 sewage pond,29/03/2019,18:40,18:44,1,Complete
+Shoveler,Spatula clypeata,Km20 saltpans,29/03/2019,16:45,18:30,1,Complete
+Shoveler,Spatula clypeata,North Beach Eilat,28/03/2019,17:40,18:20,c40,Complete
+Shoveler,Spatula clypeata,Navit Pools,28/03/2019,06:05,06:30,Present,Complete
+Mallard,Anas platyrhynchos,IBRCE,01/04/2019,18:15,19:30,Present,Complete
+Mallard,Anas platyrhynchos,IBRCE,31/03/2019,17:20,19:30,3,Complete
+Pintail,Anas acuta,Km19 sewage pond,29/03/2019,18:40,18:44,4,Complete
+Pintail,Anas acuta,Km20 saltpans,29/03/2019,16:45,18:30,c5,Complete
+Teal,Anas crecca,Km19 sewage pond,29/03/2019,18:40,18:44,1,Complete
+Teal,Anas crecca,Navit Pools,28/03/2019,06:05,06:30,Present,Complete
+Ferruginous Duck,Aythya nyroca,Navit Pools,28/03/2019,06:05,06:30,Present,Complete
+Chukar Partridge,Alectoris chukar,Ezuz,01/04/2019,11:05,11:50,3,Complete
+Sand Partridge,Ammoperdix heyi,Nizzana,01/04/2019,11:50,11:50,1,Incomplete
+Sand Partridge,Ammoperdix heyi,wadi south of Navit,28/03/2019,06:40,07:35,Present,Complete
+Quail,Coturnix coturnix,Yotvata circular fields,31/03/2019,06:15,09:45,2,Complete
+Little Grebe,Tachybaptus ruficollis,Km19 sewage pond,29/03/2019,18:40,18:44,1,Complete
+Greater Flamingo,Phoenicopterus roseus,Km2 saltpans,01/04/2019,17:50,18:09,3,Complete
+Greater Flamingo,Phoenicopterus roseus,IBRCE,31/03/2019,17:20,19:30,c15,Complete
+Greater Flamingo,Phoenicopterus roseus,Km2 saltpans,31/03/2019,16:20,16:30,9,Complete
+Greater Flamingo,Phoenicopterus roseus,Km20 saltpans,29/03/2019,16:45,18:30,c100,Complete
+Greater Flamingo,Phoenicopterus roseus,Km2 saltpans,29/03/2019,16:35,16:45,c15,Complete
+Black Stork,Ciconia nigra,R25 mountains,02/04/2019,11:00,11:00,13,Incomplete
+White Stork,Ciconia ciconia,Meyshar,01/04/2019,14:10,14:44,100+,Complete
+White Stork,Ciconia ciconia,Yotvata circular fields,31/03/2019,06:15,09:45,c10,Complete
+White Stork,Ciconia ciconia,Yotvata circular fields,28/03/2019,12:50,13:45,24,Complete
+White Stork,Ciconia ciconia,North Israel (Tel Aviv to Dead Sea),27/03/2019,16:00,18:00,c75,Incomplete
+Spoonbill,Platalea leucorodia,Navit Pools,28/03/2019,06:05,06:30,1,Complete
+Little Bittern,Ixobrychus minutus,IBRCE,01/04/2019,18:15,19:30,1,Complete
+Little Bittern,Ixobrychus minutus,IBRCE,31/03/2019,17:20,19:30,1,Complete
+Night Heron,Nycticorax nycticorax,IBRCE,01/04/2019,18:15,19:30,3,Complete
+Night Heron,Nycticorax nycticorax,IBRCE,31/03/2019,17:20,19:30,8+,Complete
+Night Heron,Nycticorax nycticorax,IBRCE,29/03/2019,18:45,19:30,c10,Incomplete
+Night Heron,Nycticorax nycticorax,North Beach Eilat,28/03/2019,17:40,18:20,9,Complete
+Night Heron,Nycticorax nycticorax,Navit Pools,28/03/2019,06:05,06:30,3+,Complete
+Squacco Heron,Ardeola ralloides,Km19 sewage pond,29/03/2019,18:40,18:44,2,Complete
+Squacco Heron,Ardeola ralloides,Km20 saltpans,29/03/2019,16:45,18:30,1,Complete
+Cattle Egret,Bubulcus ibis,Yotvata circular fields,31/03/2019,06:15,09:45,c25,Complete
+Cattle Egret,Bubulcus ibis,North Israel (Tel Aviv to Dead Sea),27/03/2019,16:00,18:00,c50,Incomplete
+Grey Heron,Ardea cinerea,IBRCE,01/04/2019,18:15,19:30,2,Complete
+Grey Heron,Ardea cinerea,IBRCE,31/03/2019,17:20,19:30,Present,Complete
+Grey Heron,Ardea cinerea,Km19 sewage pond,29/03/2019,18:40,18:44,1,Complete
+Grey Heron,Ardea cinerea,Km20 saltpans,29/03/2019,16:45,18:30,2,Complete
+Grey Heron,Ardea cinerea,Km2 saltpans,29/03/2019,16:35,16:45,Present,Complete
+Grey Heron,Ardea cinerea,North Beach Eilat,28/03/2019,17:40,18:20,1,Complete
+Grey Heron,Ardea cinerea,Eilat canal,28/03/2019,14:35,14:54,Present,Complete
+Grey Heron,Ardea cinerea,Navit Pools,28/03/2019,06:05,06:30,1,Complete
+Purple Heron,Ardea purpurea,IBRCE,01/04/2019,18:15,19:30,c80,Complete
+Purple Heron,Ardea purpurea,IBRCE,31/03/2019,17:20,19:30,5,Complete
+Purple Heron,Ardea purpurea,IBRCE,29/03/2019,18:45,19:30,1+,Incomplete
+Purple Heron,Ardea purpurea,IBRCE,28/03/2019,15:00,15:49,Present,Complete
+Little Egret,Egretta garzetta,IBRCE,01/04/2019,18:15,19:30,1,Complete
+Little Egret,Egretta garzetta,IBRCE,31/03/2019,17:20,19:30,3,Complete
+Little Egret,Egretta garzetta,Km2 saltpans,31/03/2019,16:20,16:30,3,Complete
+Little Egret,Egretta garzetta,Km19 sewage pond,29/03/2019,18:40,18:44,c5,Complete
+Little Egret,Egretta garzetta,Km20 saltpans,29/03/2019,16:45,18:30,1,Complete
+Little Egret,Egretta garzetta,Eilat canal,28/03/2019,14:35,14:54,Present,Complete
+Little Egret,Egretta garzetta,Yotvata circular fields,28/03/2019,12:50,13:45,Present,Complete
+Cormorant,Phalacrocorax carbo,IBRCE,31/03/2019,17:20,19:30,1,Complete
+Cormorant,Phalacrocorax carbo,IBRCE,28/03/2019,15:00,15:49,Present,Complete
+Short-toed Eagle,Circaetus gallicus,R6 south of Tel Aviv,02/04/2019,12:00,12:00,1+,Incomplete
+Lesser Spotted Eagle,Clanga pomarina,Nizzana,01/04/2019,07:25,09:59,1,Complete
+Steppe Eagle,Aquila nipalensis,IBRCE,01/04/2019,18:15,19:30,1,Complete
+Steppe Eagle,Aquila nipalensis,Nizzana,01/04/2019,07:25,09:59,1,Complete
+Steppe Eagle,Aquila nipalensis,Eilat mountains,30/03/2019,06:40,08:50,1,Incomplete
+Sparrowhawk,Accipiter nisus,Yotvata circular fields,31/03/2019,06:15,09:45,1,Complete
+Marsh Harrier,Circus aeruginosus,Meyshar,01/04/2019,14:10,14:44,Present,Complete
+Marsh Harrier,Circus aeruginosus,IBRCE,31/03/2019,17:20,19:30,1,Complete
+Marsh Harrier,Circus aeruginosus,Yotvata circular fields,31/03/2019,06:15,09:45,3,Complete
+Hen Harrier,Circus cyaneus,Yotvata circular fields,31/03/2019,06:15,09:45,1,Complete
+Pallid Harrier,Circus macrourus,Km94 R90,02/04/2019,06:40,09:10,1,Complete
+Pallid Harrier,Circus macrourus,Yotvata circular fields,31/03/2019,06:15,09:45,1,Complete
+Montagu's Harrier,Circus pygargus,Yotvata circular fields,31/03/2019,06:15,09:45,1,Complete
+Black Kite,Milvus migrans,IBRCE,01/04/2019,18:15,19:30,30,Complete
+Black Kite,Milvus migrans,"South Beach, Eilat",30/03/2019,17:40,17:40,Present,Incomplete
+Black Kite,Milvus migrans,Eilat mountains,30/03/2019,06:40,08:50,1,Incomplete
+Black Kite,Milvus migrans,R90 Dead Sea to Eilat,28/03/2019,06:00,14:30,Present,Incomplete
+Buzzard,Buteo buteo,Yotvata circular fields,31/03/2019,06:15,09:45,1,Complete
+Buzzard (Steppe - vulpinus),Buteo buteo vulpinus,IBRCE,01/04/2019,18:15,19:30,c200,Complete
+Buzzard (Steppe - vulpinus),Buteo buteo vulpinus,IBRCE,31/03/2019,17:20,19:30,Present,Complete
+Buzzard (Steppe - vulpinus),Buteo buteo vulpinus,Eilat mountains,30/03/2019,06:40,08:50,220+,Incomplete
+Buzzard (Steppe - vulpinus),Buteo buteo vulpinus,"South Beach, Eilat",29/03/2019,14:20,14:50,Present,Complete
+Buzzard (Steppe - vulpinus),Buteo buteo vulpinus,"Holland Park, Eilat",29/03/2019,06:45,07:40,Present,Complete
+Buzzard (Steppe - vulpinus),Buteo buteo vulpinus,IBRCE,28/03/2019,15:00,15:49,Present,Complete
+Buzzard (Steppe - vulpinus),Buteo buteo vulpinus,Yotvata circular fields,28/03/2019,12:50,13:45,Present,Complete
+Buzzard (Steppe - vulpinus),Buteo buteo vulpinus,Km94 R90,28/03/2019,09:00,11:15,Present,Complete
+Buzzard (Steppe - vulpinus),Buteo buteo vulpinus,R90 Dead Sea to Eilat,28/03/2019,06:00,14:30,Present,Incomplete
+Macqueen's Bustard,Chlamydotis macqueenii,Nizzana,01/04/2019,07:25,09:59,2,Complete
+Water Rail,Rallus aquaticus,IBRCE,01/04/2019,18:15,19:30,2,Complete
+Water Rail,Rallus aquaticus,IBRCE,31/03/2019,17:20,19:30,1,Complete
+Water Rail,Rallus aquaticus,Navit Pools,28/03/2019,06:05,06:30,Present,Complete
+Little Crake,Porzana parva,IBRCE,31/03/2019,17:20,19:30,1,Complete
+Baillon's Crake,Porzana pusilla,IBRCE,28/03/2019,15:00,15:49,Present,Complete
+African Swamphen,Porphyrio madagascariensis,Navit Pools,28/03/2019,06:05,06:30,Present,Complete
+Moorhen,Gallinula chloropus,IBRCE,31/03/2019,17:20,19:30,1,Complete
+Moorhen,Gallinula chloropus,Km19 sewage pond,29/03/2019,18:40,18:44,c20,Complete
+Moorhen,Gallinula chloropus,Navit Pools,28/03/2019,06:05,06:30,Present,Complete
+Coot,Fulica atra,Km19 sewage pond,29/03/2019,18:40,18:44,c20,Complete
+Coot,Fulica atra,Navit Pools,28/03/2019,06:05,06:30,Present,Complete
+Black-winged Stilt,Himantopus himantopus,IBRCE,01/04/2019,18:15,19:30,Present,Complete
+Black-winged Stilt,Himantopus himantopus,Km2 saltpans,01/04/2019,17:50,18:09,2,Complete
+Black-winged Stilt,Himantopus himantopus,IBRCE,31/03/2019,17:20,19:30,Present,Complete
+Black-winged Stilt,Himantopus himantopus,Eilat canal,31/03/2019,16:45,16:49,Present,Complete
+Black-winged Stilt,Himantopus himantopus,Km20 saltpans,29/03/2019,16:45,18:30,c20,Complete
+Black-winged Stilt,Himantopus himantopus,Km2 saltpans,29/03/2019,16:35,16:45,Present,Complete
+Black-winged Stilt,Himantopus himantopus,IBRCE,28/03/2019,15:00,15:49,Present,Complete
+Black-winged Stilt,Himantopus himantopus,Eilat canal,28/03/2019,14:35,14:54,Present,Complete
+Black-winged Stilt,Himantopus himantopus,Neve Zohar,28/03/2019,05:25,05:44,7,Complete
+Spur-winged Lapwing,Vanellus spinosus,IBRCE,31/03/2019,17:20,19:30,Present,Complete
+Spur-winged Lapwing,Vanellus spinosus,Eilat canal,31/03/2019,16:45,16:49,Present,Complete
+Spur-winged Lapwing,Vanellus spinosus,Km2 saltpans,31/03/2019,16:20,16:30,Present,Complete
+Spur-winged Lapwing,Vanellus spinosus,Samar,31/03/2019,10:00,10:40,Present,Complete
+Spur-winged Lapwing,Vanellus spinosus,Km20 saltpans,29/03/2019,16:45,18:30,c20,Complete
+Spur-winged Lapwing,Vanellus spinosus,Km2 saltpans,29/03/2019,16:35,16:45,Present,Complete
+Spur-winged Lapwing,Vanellus spinosus,North Beach Eilat,28/03/2019,17:40,18:20,Present,Complete
+Spur-winged Lapwing,Vanellus spinosus,Eilat canal,28/03/2019,14:35,14:54,Present,Complete
+Spur-winged Lapwing,Vanellus spinosus,Yotvata Sewage Works,28/03/2019,13:50,13:50,Present,Incomplete
+Spur-winged Lapwing,Vanellus spinosus,Tel Aviv Ben Gurion airport,27/03/2019,14:40,15:59,Present,Incomplete
+Ringed Plover,Charadrius hiaticula,Km2 saltpans,01/04/2019,17:50,18:09,c100,Complete
+Ringed Plover,Charadrius hiaticula,Km2 saltpans,31/03/2019,16:20,16:30,Present,Complete
+Ringed Plover,Charadrius hiaticula,Km20 saltpans,29/03/2019,16:45,18:30,c10,Complete
+Ringed Plover,Charadrius hiaticula,Km2 saltpans,29/03/2019,16:35,16:45,50+,Complete
+Little Ringed Plover,Charadrius dubius,IBRCE,31/03/2019,17:20,19:30,1,Complete
+Little Ringed Plover,Charadrius dubius,Km20 saltpans,29/03/2019,16:45,18:30,2,Complete
+Little Ringed Plover,Charadrius dubius,IBRCE,28/03/2019,15:00,15:49,Present,Complete
+Kentish Plover,Charadrius alexandrinus,Km2 saltpans,01/04/2019,17:50,18:09,1,Complete
+Kentish Plover,Charadrius alexandrinus,Km2 saltpans,31/03/2019,16:20,16:30,2,Complete
+Kentish Plover,Charadrius alexandrinus,Km20 saltpans,29/03/2019,16:45,18:30,1,Complete
+Kentish Plover,Charadrius alexandrinus,Km2 saltpans,29/03/2019,16:35,16:45,2,Complete
+Greater Sand Plover,Charadrius leschenaultii,Km20 saltpans,29/03/2019,16:45,18:30,1,Complete
+Curlew,Numenius arquata,IBRCE,31/03/2019,17:20,19:30,Present,Complete
+Ruff,Calidris pugnax,Km2 saltpans,01/04/2019,17:50,18:09,1,Complete
+Ruff,Calidris pugnax,IBRCE,31/03/2019,17:20,19:30,Present,Complete
+Ruff,Calidris pugnax,Eilat canal,31/03/2019,16:45,16:49,Present,Complete
+Ruff,Calidris pugnax,IBRCE,28/03/2019,15:00,15:49,Present,Complete
+Ruff,Calidris pugnax,Eilat canal,28/03/2019,14:35,14:54,Present,Complete
+Curlew Sandpiper,Calidris ferruginea,IBRCE,28/03/2019,15:00,15:49,Present,Complete
+Temminck's Stint,Calidris temminckii,IBRCE,31/03/2019,17:20,19:30,1,Complete
+Temminck's Stint,Calidris temminckii,Eilat canal,31/03/2019,16:45,16:49,1,Complete
+Dunlin,Calidris alpina,IBRCE,01/04/2019,18:15,19:30,Present,Complete
+Dunlin,Calidris alpina,Km2 saltpans,01/04/2019,17:50,18:09,2,Complete
+Dunlin,Calidris alpina,Eilat canal,28/03/2019,14:35,14:54,Present,Complete
+Little Stint,Calidris minuta,Km2 saltpans,01/04/2019,17:50,18:09,c60,Complete
+Little Stint,Calidris minuta,Eilat canal,31/03/2019,16:45,16:49,Present,Complete
+Little Stint,Calidris minuta,Km2 saltpans,31/03/2019,16:20,16:30,Present,Complete
+Little Stint,Calidris minuta,Km20 saltpans,29/03/2019,16:45,18:30,c30,Complete
+Little Stint,Calidris minuta,IBRCE,28/03/2019,15:00,15:49,Present,Complete
+Little Stint,Calidris minuta,Eilat canal,28/03/2019,14:35,14:54,Present,Complete
+Red-necked Phalarope,Phalaropus lobatus,IBRCE,31/03/2019,17:20,19:30,4,Complete
+Common Sandpiper,Actitis hypoleucos,IBRCE,01/04/2019,18:15,19:30,Present,Complete
+Common Sandpiper,Actitis hypoleucos,IBRCE,31/03/2019,17:20,19:30,2,Complete
+Common Sandpiper,Actitis hypoleucos,Eilat canal,31/03/2019,16:45,16:49,Present,Complete
+Common Sandpiper,Actitis hypoleucos,Eilat canal,28/03/2019,14:35,14:54,Present,Complete
+Green Sandpiper,Tringa ochropus,IBRCE,01/04/2019,18:15,19:30,Present,Complete
+Green Sandpiper,Tringa ochropus,IBRCE,31/03/2019,17:20,19:30,5,Complete
+Green Sandpiper,Tringa ochropus,Km19 sewage pond,29/03/2019,18:40,18:44,Present,Complete
+Green Sandpiper,Tringa ochropus,Eilat canal,28/03/2019,14:35,14:54,Present,Complete
+Redshank,Tringa totanus,IBRCE,01/04/2019,18:15,19:30,Present,Complete
+Redshank,Tringa totanus,Km2 saltpans,01/04/2019,17:50,18:09,10,Complete
+Redshank,Tringa totanus,IBRCE,31/03/2019,17:20,19:30,Present,Complete
+Redshank,Tringa totanus,Eilat canal,31/03/2019,16:45,16:49,Present,Complete
+Redshank,Tringa totanus,Km20 saltpans,29/03/2019,16:45,18:30,c20,Complete
+Redshank,Tringa totanus,Km2 saltpans,29/03/2019,16:35,16:45,Present,Complete
+Redshank,Tringa totanus,IBRCE,28/03/2019,15:00,15:49,Present,Complete
+Redshank,Tringa totanus,Eilat canal,28/03/2019,14:35,14:54,Present,Complete
+Marsh Sandpiper,Tringa stagnatilis,IBRCE,01/04/2019,18:15,19:30,Present,Complete
+Marsh Sandpiper,Tringa stagnatilis,Eilat canal,31/03/2019,16:45,16:49,Present,Complete
+Marsh Sandpiper,Tringa stagnatilis,Km20 saltpans,29/03/2019,16:45,18:30,c10,Complete
+Marsh Sandpiper,Tringa stagnatilis,IBRCE,28/03/2019,15:00,15:49,Present,Complete
+Marsh Sandpiper,Tringa stagnatilis,Eilat canal,28/03/2019,14:35,14:54,Present,Complete
+Wood Sandpiper,Tringa glareola,IBRCE,31/03/2019,17:20,19:30,Present,Complete
+Wood Sandpiper,Tringa glareola,Yotvata circular fields,31/03/2019,06:15,09:45,1,Complete
+Wood Sandpiper,Tringa glareola,IBRCE,28/03/2019,15:00,15:49,Present,Complete
+Wood Sandpiper,Tringa glareola,Yotvata Sewage Works,28/03/2019,13:50,13:50,Present,Incomplete
+Greenshank,Tringa nebularia,IBRCE,01/04/2019,18:15,19:30,Present,Complete
+Greenshank,Tringa nebularia,Km2 saltpans,01/04/2019,17:50,18:09,1,Complete
+Greenshank,Tringa nebularia,IBRCE,31/03/2019,17:20,19:30,Present,Complete
+Greenshank,Tringa nebularia,Eilat canal,31/03/2019,16:45,16:49,Present,Complete
+Greenshank,Tringa nebularia,"South Beach, Eilat",31/03/2019,14:00,14:00,1,Incomplete
+Greenshank,Tringa nebularia,Km20 saltpans,29/03/2019,16:45,18:30,c10,Complete
+Greenshank,Tringa nebularia,Km2 saltpans,29/03/2019,16:35,16:45,Present,Complete
+Greenshank,Tringa nebularia,IBRCE,28/03/2019,15:00,15:49,Present,Complete
+Greenshank,Tringa nebularia,Eilat canal,28/03/2019,14:35,14:54,Present,Complete
+Cream-coloured Courser,Cursorius cursor,Nizzana,01/04/2019,11:50,11:50,2,Incomplete
+Cream-coloured Courser,Cursorius cursor,Nizzana,01/04/2019,07:25,09:59,7+,Complete
+Collared Pratincole,Glareola pratincola,IBRCE,31/03/2019,17:20,19:30,13+,Complete
+Collared Pratincole,Glareola pratincola,Yotvata circular fields,31/03/2019,06:15,09:45,4,Complete
+Slender-billed Gull,Chroicocephalus genei,IBRCE,01/04/2019,18:15,19:30,Present,Complete
+Slender-billed Gull,Chroicocephalus genei,Km2 saltpans,01/04/2019,17:50,18:09,85,Complete
+Slender-billed Gull,Chroicocephalus genei,IBRCE,31/03/2019,17:20,19:30,Present,Complete
+Slender-billed Gull,Chroicocephalus genei,Eilat canal,31/03/2019,16:45,16:49,Present,Complete
+Slender-billed Gull,Chroicocephalus genei,Km2 saltpans,31/03/2019,16:20,16:30,Present,Complete
+Slender-billed Gull,Chroicocephalus genei,Km20 saltpans,29/03/2019,16:45,18:30,c200,Complete
+Slender-billed Gull,Chroicocephalus genei,Km2 saltpans,29/03/2019,16:35,16:45,Present,Complete
+Slender-billed Gull,Chroicocephalus genei,North Beach Eilat,28/03/2019,17:40,18:20,Present,Complete
+Slender-billed Gull,Chroicocephalus genei,IBRCE,28/03/2019,15:00,15:49,Present,Complete
+Slender-billed Gull,Chroicocephalus genei,Eilat canal,28/03/2019,14:35,14:54,Present,Complete
+Black-headed Gull,Chroicocephalus ridibundus,Km2 saltpans,01/04/2019,17:50,18:09,3,Complete
+Black-headed Gull,Chroicocephalus ridibundus,IBRCE,31/03/2019,17:20,19:30,Present,Complete
+Black-headed Gull,Chroicocephalus ridibundus,Eilat canal,31/03/2019,16:45,16:49,Present,Complete
+Black-headed Gull,Chroicocephalus ridibundus,Km2 saltpans,31/03/2019,16:20,16:30,Present,Complete
+Black-headed Gull,Chroicocephalus ridibundus,Km20 saltpans,29/03/2019,16:45,18:30,c10,Complete
+Black-headed Gull,Chroicocephalus ridibundus,Km2 saltpans,29/03/2019,16:35,16:45,Present,Complete
+Black-headed Gull,Chroicocephalus ridibundus,North Beach Eilat,28/03/2019,17:40,18:20,Present,Complete
+Black-headed Gull,Chroicocephalus ridibundus,IBRCE,28/03/2019,15:00,15:49,Present,Complete
+Black-headed Gull,Chroicocephalus ridibundus,Eilat canal,28/03/2019,14:35,14:54,Present,Complete
+White-eyed Gull,Ichthyaetus leucophthalmus,North Beach Eilat,28/03/2019,17:40,18:20,c30,Complete
+Caspian Gull,Larus cachinnans,Km2 saltpans,31/03/2019,16:20,16:30,Present,Complete
+Armenian Gull,Larus armenicus,Km20 saltpans,29/03/2019,16:45,18:30,1,Complete
+Armenian Gull,Larus armenicus,Km2 saltpans,29/03/2019,16:35,16:45,Present,Complete
+Lesser Black-backed Gull,Larus fuscus,IBRCE,01/04/2019,18:15,19:30,Present,Complete
+Lesser Black-backed Gull,Larus fuscus,IBRCE,31/03/2019,17:20,19:30,Present,Complete
+Lesser Black-backed Gull,Larus fuscus,Km2 saltpans,31/03/2019,16:20,16:30,Present,Complete
+Lesser Black-backed Gull,Larus fuscus,"South Beach, Eilat",31/03/2019,14:00,14:00,5,Incomplete
+Lesser Black-backed Gull,Larus fuscus,Km20 saltpans,29/03/2019,16:45,18:30,1,Complete
+Unidentified large gull,Laridae sp. (large),IBRCE,31/03/2019,17:20,19:30,Present,Complete
+Gull-billed Tern,Gelochelidon nilotica,Km2 saltpans,29/03/2019,16:35,16:45,2,Complete
+Gull-billed Tern,Gelochelidon nilotica,North Beach Eilat,28/03/2019,17:40,18:20,1,Complete
+Caspian Tern,Hydroprogne caspia,North Beach Eilat,31/03/2019,17:00,17:00,1,Incomplete
+Caspian Tern,Hydroprogne caspia,Km2 saltpans,31/03/2019,16:20,16:30,Present,Complete
+Caspian Tern,Hydroprogne caspia,Km2 saltpans,29/03/2019,16:35,16:45,1,Complete
+Sandwich Tern,Thalasseus sandvicensis,North Beach Eilat,31/03/2019,17:00,17:00,1,Incomplete
+Little Tern,Sternula albifrons,IBRCE,31/03/2019,17:20,19:30,1+,Complete
+Common Tern,Sterna hirundo,Km2 saltpans,01/04/2019,17:50,18:09,4,Complete
+Common Tern,Sterna hirundo,IBRCE,31/03/2019,17:20,19:30,c30,Complete
+Common Tern,Sterna hirundo,North Beach Eilat,31/03/2019,17:00,17:00,11,Incomplete
+Pin-tailed Sandgrouse,Pterocles alchata,Nizzana,01/04/2019,07:25,09:59,4,Complete
+Spotted Sandgrouse,Pterocles senegallus,Km94 R90,02/04/2019,06:40,09:10,4,Complete
+Lichtenstein's Sandgrouse,Pterocles lichtensteinii,IBRCE,01/04/2019,18:15,19:30,1,Complete
+Lichtenstein's Sandgrouse,Pterocles lichtensteinii,IBRCE,31/03/2019,17:20,19:30,1,Complete
+Feral Pigeon,Columba livia f. domestica,IBRCE,01/04/2019,18:15,19:30,Present,Complete
+Feral Pigeon,Columba livia f. domestica,Ezuz,01/04/2019,11:05,11:50,Present,Complete
+Feral Pigeon,Columba livia f. domestica,Nizzana,01/04/2019,07:25,09:59,Present,Complete
+Feral Pigeon,Columba livia f. domestica,IBRCE,31/03/2019,17:20,19:30,Present,Complete
+Feral Pigeon,Columba livia f. domestica,"South Beach, Eilat",29/03/2019,14:20,14:50,Present,Complete
+Feral Pigeon,Columba livia f. domestica,"Holland Park, Eilat",29/03/2019,06:45,07:40,Present,Complete
+Turtle Dove,Streptopelia turtur,Yotvata circular fields,31/03/2019,06:15,09:45,3+,Complete
+Collared Dove,Streptopelia decaocto,Ezuz grove picnic area,01/04/2019,10:05,11:00,Present,Complete
+Collared Dove,Streptopelia decaocto,Nizzana,01/04/2019,07:25,09:59,Present,Complete
+Collared Dove,Streptopelia decaocto,IBRCE,31/03/2019,17:20,19:30,Present,Complete
+Collared Dove,Streptopelia decaocto,Eilat canal,31/03/2019,16:45,16:49,Present,Complete
+Collared Dove,Streptopelia decaocto,Km2 saltpans,31/03/2019,16:20,16:30,Present,Complete
+Collared Dove,Streptopelia decaocto,Yotvata circular fields,31/03/2019,06:15,09:45,Present,Complete
+Collared Dove,Streptopelia decaocto,Eilat mountains,30/03/2019,06:40,08:50,Present,Incomplete
+Collared Dove,Streptopelia decaocto,Km19 sewage pond,29/03/2019,18:40,18:44,Present,Complete
+Collared Dove,Streptopelia decaocto,Km20 saltpans,29/03/2019,16:45,18:30,Present,Complete
+Collared Dove,Streptopelia decaocto,"South Beach, Eilat",29/03/2019,14:20,14:50,Present,Complete
+Collared Dove,Streptopelia decaocto,"Holland Park, Eilat",29/03/2019,06:45,07:40,Present,Complete
+Collared Dove,Streptopelia decaocto,IBRCE,28/03/2019,15:00,15:49,Present,Complete
+Collared Dove,Streptopelia decaocto,Eilat canal,28/03/2019,14:35,14:54,Present,Complete
+Collared Dove,Streptopelia decaocto,Yotvata Sewage Works,28/03/2019,13:50,13:50,Present,Incomplete
+Collared Dove,Streptopelia decaocto,Yotvata circular fields,28/03/2019,12:50,13:45,Present,Complete
+Collared Dove,Streptopelia decaocto,Ovda turning R90,28/03/2019,11:40,11:40,Present,Incomplete
+Collared Dove,Streptopelia decaocto,Km94 R90,28/03/2019,09:00,11:15,Present,Complete
+Collared Dove,Streptopelia decaocto,wadi south of Navit,28/03/2019,06:40,07:35,Present,Complete
+Collared Dove,Streptopelia decaocto,Navit Pools,28/03/2019,06:05,06:30,Present,Complete
+Laughing Dove,Spilopelia senegalensis,Ezuz grove picnic area,01/04/2019,10:05,11:00,Present,Complete
+Laughing Dove,Spilopelia senegalensis,IBRCE,31/03/2019,17:20,19:30,Present,Complete
+Laughing Dove,Spilopelia senegalensis,Samar,31/03/2019,10:00,10:40,Present,Complete
+Laughing Dove,Spilopelia senegalensis,Yotvata circular fields,31/03/2019,06:15,09:45,Present,Complete
+Laughing Dove,Spilopelia senegalensis,Eilat mountains,30/03/2019,06:40,08:50,Present,Incomplete
+Laughing Dove,Spilopelia senegalensis,Km20 saltpans,29/03/2019,16:45,18:30,Present,Complete
+Laughing Dove,Spilopelia senegalensis,"South Beach, Eilat",29/03/2019,14:20,14:50,Present,Complete
+Laughing Dove,Spilopelia senegalensis,"Holland Park, Eilat",29/03/2019,06:45,07:40,Present,Complete
+Laughing Dove,Spilopelia senegalensis,IBRCE,28/03/2019,15:00,15:49,Present,Complete
+Laughing Dove,Spilopelia senegalensis,Yotvata circular fields,28/03/2019,12:50,13:45,Present,Complete
+Laughing Dove,Spilopelia senegalensis,Ovda turning R90,28/03/2019,11:40,11:40,Present,Incomplete
+Laughing Dove,Spilopelia senegalensis,Neve Zohar,28/03/2019,05:25,05:44,Present,Complete
+Laughing Dove,Spilopelia senegalensis,North Israel (Tel Aviv to Dead Sea),27/03/2019,16:00,18:00,Present,Incomplete
+Alpine Swift,Tachymarptis melba,IBRCE,31/03/2019,17:20,19:30,5+,Complete
+Swift,Apus apus,IBRCE,31/03/2019,17:20,19:30,c100,Complete
+Swift,Apus apus,Yotvata circular fields,31/03/2019,06:15,09:45,1,Complete
+Swift,Apus apus,Km19 sewage pond,29/03/2019,18:40,18:44,Present,Complete
+Pallid Swift,Apus pallidus,IBRCE,31/03/2019,17:20,19:30,2+,Complete
+Little Swift,Apus affinis,IBRCE,31/03/2019,17:20,19:30,1,Complete
+Pied Kingfisher,Ceryle rudis,IBRCE,31/03/2019,17:20,19:30,Present,Complete
+Pied Kingfisher,Ceryle rudis,Eilat canal,31/03/2019,16:45,16:49,1,Complete
+Pied Kingfisher,Ceryle rudis,North Beach Eilat,28/03/2019,17:40,18:20,Present,Complete
+Pied Kingfisher,Ceryle rudis,Eilat canal,28/03/2019,14:35,14:54,2,Complete
+Green Bee-eater,Merops orientalis,Yotvata circular fields,31/03/2019,06:15,09:45,2,Complete
+Green Bee-eater,Merops orientalis,"Holland Park, Eilat",29/03/2019,06:45,07:40,1,Complete
+Green Bee-eater,Merops orientalis,Yotvata Sewage Works,28/03/2019,13:50,13:50,2,Incomplete
+Bee-eater,Merops apiaster,Km94 R90,02/04/2019,06:40,09:10,Present,Complete
+Bee-eater,Merops apiaster,IBRCE,01/04/2019,18:15,19:30,12,Complete
+Bee-eater,Merops apiaster,Eilat mountains,30/03/2019,06:40,08:50,Present,Incomplete
+Bee-eater,Merops apiaster,wadi south of Navit,28/03/2019,06:40,07:35,Present,Complete
+Hoopoe,Upupa epops,Km94 R90,02/04/2019,06:40,09:10,1,Complete
+Hoopoe,Upupa epops,Ezuz grove picnic area,01/04/2019,10:05,11:00,Present,Complete
+Hoopoe,Upupa epops,Nizzana,01/04/2019,07:25,09:59,Present,Complete
+Hoopoe,Upupa epops,Yotvata circular fields,31/03/2019,06:15,09:45,3,Complete
+Hoopoe,Upupa epops,Yotvata circular fields,28/03/2019,12:50,13:45,2,Complete
+Hoopoe,Upupa epops,Km94 R90,28/03/2019,09:00,11:15,Present,Complete
+Hoopoe,Upupa epops,R90 Dead Sea to Eilat,28/03/2019,06:00,14:30,Present,Incomplete
+Hoopoe,Upupa epops,North Israel (Tel Aviv to Dead Sea),27/03/2019,16:00,18:00,Present,Incomplete
+Wryneck,Jynx torquilla,Ezuz grove picnic area,01/04/2019,10:05,11:00,1,Complete
+Wryneck,Jynx torquilla,"South Beach, Eilat",31/03/2019,11:30,11:30,1,Incomplete
+Wryneck,Jynx torquilla,Yotvata circular fields,28/03/2019,12:50,13:45,1,Complete
+Wryneck,Jynx torquilla,R90 Dead Sea to Eilat,28/03/2019,06:00,14:30,1,Incomplete
+Lesser Kestrel,Falco naumanni,Yotvata circular fields,31/03/2019,06:15,09:45,1+,Complete
+Kestrel,Falco tinnunculus,Km94 R90,02/04/2019,06:40,09:10,Present,Complete
+Kestrel,Falco tinnunculus,IBRCE,01/04/2019,18:15,19:30,Present,Complete
+Kestrel,Falco tinnunculus,Ezuz,01/04/2019,11:05,11:50,Present,Complete
+Kestrel,Falco tinnunculus,Nizzana,01/04/2019,07:25,09:59,Present,Complete
+Kestrel,Falco tinnunculus,Yotvata circular fields,31/03/2019,06:15,09:45,4,Complete
+Kestrel,Falco tinnunculus,R90 Dead Sea to Eilat,28/03/2019,06:00,14:30,Present,Incomplete
+Kestrel,Falco tinnunculus,North Israel (Tel Aviv to Dead Sea),27/03/2019,16:00,18:00,Present,Incomplete
+Ring-necked Parakeet,Psittacula krameri,IBRCE,31/03/2019,17:20,19:30,Present,Complete
+Ring-necked Parakeet,Psittacula krameri,Eilat canal,31/03/2019,16:45,16:49,Present,Complete
+Ring-necked Parakeet,Psittacula krameri,"Holland Park, Eilat",29/03/2019,06:45,07:40,Present,Complete
+Ring-necked Parakeet,Psittacula krameri,North Israel (Tel Aviv to Dead Sea),27/03/2019,16:00,18:00,Present,Incomplete
+Ring-necked Parakeet,Psittacula krameri,Tel Aviv Ben Gurion airport,27/03/2019,14:40,15:59,Present,Incomplete
+Great Grey Shrike,Lanius excubitor,Km94 R90,02/04/2019,06:40,09:10,3,Complete
+Great Grey Shrike,Lanius excubitor,Ezuz,01/04/2019,11:05,11:50,1,Complete
+Great Grey Shrike,Lanius excubitor,Yotvata circular fields,31/03/2019,06:15,09:45,1,Complete
+Great Grey Shrike,Lanius excubitor,Km94 R90,28/03/2019,09:00,11:15,Present,Complete
+Woodchat Shrike,Lanius senator,R90 Dead Sea to Eilat,02/04/2019,10:00,10:00,1,Incomplete
+Masked Shrike,Lanius nubicus,Ezuz grove picnic area,01/04/2019,10:05,11:00,Present,Complete
+Masked Shrike,Lanius nubicus,Nizzana,01/04/2019,07:25,09:59,1,Complete
+Jay,Garrulus glandarius,North Israel (Tel Aviv to Dead Sea),27/03/2019,16:00,18:00,Present,Incomplete
+Jackdaw,Coloeus monedula,North Israel (Tel Aviv to Dead Sea),27/03/2019,16:00,18:00,Present,Incomplete
+House Crow,Corvus splendens,Eilat canal,31/03/2019,16:45,16:49,Present,Complete
+House Crow,Corvus splendens,Km2 saltpans,31/03/2019,16:20,16:30,Present,Complete
+House Crow,Corvus splendens,Km19 sewage pond,29/03/2019,18:40,18:44,Present,Complete
+House Crow,Corvus splendens,"South Beach, Eilat",29/03/2019,14:20,14:50,Present,Complete
+House Crow,Corvus splendens,"Holland Park, Eilat",29/03/2019,06:45,07:40,Present,Complete
+House Crow,Corvus splendens,North Beach Eilat,28/03/2019,17:40,18:20,Present,Complete
+House Crow,Corvus splendens,IBRCE,28/03/2019,15:00,15:49,Present,Complete
+House Crow,Corvus splendens,Eilat canal,28/03/2019,14:35,14:54,Present,Complete
+Hooded Crow,Corvus cornix,Ezuz grove picnic area,01/04/2019,10:05,11:00,Present,Complete
+Hooded Crow,Corvus cornix,Nizzana,01/04/2019,07:25,09:59,Present,Complete
+Hooded Crow,Corvus cornix,Neve Zohar,28/03/2019,05:25,05:44,Present,Complete
+Hooded Crow,Corvus cornix,North Israel (Tel Aviv to Dead Sea),27/03/2019,16:00,18:00,Present,Incomplete
+Brown-necked Raven,Corvus ruficollis,R25 mountains,02/04/2019,11:00,11:00,Present,Incomplete
+Brown-necked Raven,Corvus ruficollis,Meyshar,01/04/2019,14:10,14:44,Present,Complete
+Brown-necked Raven,Corvus ruficollis,Nizzana,01/04/2019,07:25,09:59,Present,Complete
+Brown-necked Raven,Corvus ruficollis,R90 Dead Sea to Eilat,28/03/2019,06:00,14:30,Present,Incomplete
+Brown-necked Raven,Corvus ruficollis,Neve Zohar,28/03/2019,05:25,05:44,Present,Complete
+Greater Hoopoe-Lark,Alaemon alaudipes,Km94 R90,02/04/2019,06:40,09:10,1+,Complete
+Desert Lark,Ammomanes deserti,Ezuz,01/04/2019,11:05,11:50,Present,Complete
+Desert Lark,Ammomanes deserti,Eilat mountains,30/03/2019,06:40,08:50,3,Incomplete
+Desert Lark,Ammomanes deserti,wadi south of Navit,28/03/2019,06:40,07:35,1,Complete
+Bar-tailed Lark,Ammomanes cinctura,Km94 R90,02/04/2019,06:40,09:10,1,Complete
+Bar-tailed Lark,Ammomanes cinctura,Km94 R90,28/03/2019,09:00,11:15,3,Complete
+Crested Lark,Galerida cristata,Km94 R90,02/04/2019,06:40,09:10,Present,Complete
+Crested Lark,Galerida cristata,Meyshar,01/04/2019,14:10,14:44,Present,Complete
+Crested Lark,Galerida cristata,Ezuz,01/04/2019,11:05,11:50,Present,Complete
+Crested Lark,Galerida cristata,Nizzana,01/04/2019,07:25,09:59,Present,Complete
+Crested Lark,Galerida cristata,Km2 saltpans,31/03/2019,16:20,16:30,Present,Complete
+Crested Lark,Galerida cristata,Yotvata circular fields,31/03/2019,06:15,09:45,c20,Complete
+Crested Lark,Galerida cristata,IBRCE,28/03/2019,15:00,15:49,Present,Complete
+Crested Lark,Galerida cristata,Eilat canal,28/03/2019,14:35,14:54,Present,Complete
+Crested Lark,Galerida cristata,Yotvata circular fields,28/03/2019,12:50,13:45,Present,Complete
+Crested Lark,Galerida cristata,Km94 R90,28/03/2019,09:00,11:15,Present,Complete
+Crested Lark,Galerida cristata,R90 Dead Sea to Eilat,28/03/2019,06:00,14:30,Present,Incomplete
+Short-toed Lark,Calandrella brachydactyla,Km94 R90,02/04/2019,06:40,09:10,5+,Complete
+Short-toed Lark,Calandrella brachydactyla,Nizzana,01/04/2019,07:25,09:59,Present,Complete
+Short-toed Lark,Calandrella brachydactyla,Yotvata circular fields,31/03/2019,06:15,09:45,1,Complete
+Short-toed Lark,Calandrella brachydactyla,Km94 R90,28/03/2019,09:00,11:15,c6,Complete
+White-spectacled Bulbul,Pycnonotus xanthopygos,Km2 saltpans,01/04/2019,17:50,18:09,Present,Complete
+White-spectacled Bulbul,Pycnonotus xanthopygos,Ezuz grove picnic area,01/04/2019,10:05,11:00,Present,Complete
+White-spectacled Bulbul,Pycnonotus xanthopygos,Nizzana,01/04/2019,07:25,09:59,Present,Complete
+White-spectacled Bulbul,Pycnonotus xanthopygos,IBRCE,31/03/2019,17:20,19:30,Present,Complete
+White-spectacled Bulbul,Pycnonotus xanthopygos,Yotvata circular fields,31/03/2019,06:15,09:45,c10,Complete
+White-spectacled Bulbul,Pycnonotus xanthopygos,"South Beach, Eilat",30/03/2019,17:40,17:40,Present,Incomplete
+White-spectacled Bulbul,Pycnonotus xanthopygos,Km20 saltpans,29/03/2019,16:45,18:30,Present,Complete
+White-spectacled Bulbul,Pycnonotus xanthopygos,"South Beach, Eilat",29/03/2019,14:20,14:50,Present,Complete
+White-spectacled Bulbul,Pycnonotus xanthopygos,"Holland Park, Eilat",29/03/2019,06:45,07:40,Present,Complete
+White-spectacled Bulbul,Pycnonotus xanthopygos,IBRCE,28/03/2019,15:00,15:49,Present,Complete
+White-spectacled Bulbul,Pycnonotus xanthopygos,Yotvata circular fields,28/03/2019,12:50,13:45,Present,Complete
+White-spectacled Bulbul,Pycnonotus xanthopygos,wadi south of Navit,28/03/2019,06:40,07:35,Present,Complete
+White-spectacled Bulbul,Pycnonotus xanthopygos,Neve Zohar,28/03/2019,05:25,05:44,Present,Complete
+Sand Martin,Riparia riparia,IBRCE,01/04/2019,18:15,19:30,Present,Complete
+Sand Martin,Riparia riparia,Yotvata circular fields,31/03/2019,06:15,09:45,1+,Complete
+Swallow,Hirundo rustica,Km94 R90,02/04/2019,06:40,09:10,1,Complete
+Swallow,Hirundo rustica,IBRCE,01/04/2019,18:15,19:30,Present,Complete
+Swallow,Hirundo rustica,IBRCE,31/03/2019,17:20,19:30,Present,Complete
+Swallow,Hirundo rustica,Yotvata circular fields,31/03/2019,06:15,09:45,c100,Complete
+Swallow,Hirundo rustica,Km19 sewage pond,29/03/2019,18:40,18:44,Present,Complete
+Swallow,Hirundo rustica,Km20 saltpans,29/03/2019,16:45,18:30,Present,Complete
+Swallow,Hirundo rustica,IBRCE,28/03/2019,15:00,15:49,Present,Complete
+Swallow,Hirundo rustica,Eilat canal,28/03/2019,14:35,14:54,Present,Complete
+Pale Crag Martin,Ptyonoprogne obsoleta,Km94 R90,02/04/2019,06:40,09:10,2,Complete
+Pale Crag Martin,Ptyonoprogne obsoleta,Eilat canal,31/03/2019,16:45,16:49,Present,Complete
+Pale Crag Martin,Ptyonoprogne obsoleta,Yotvata circular fields,31/03/2019,06:15,09:45,c20,Complete
+Pale Crag Martin,Ptyonoprogne obsoleta,"South Beach, Eilat",30/03/2019,17:40,17:40,2,Incomplete
+Pale Crag Martin,Ptyonoprogne obsoleta,Km19 sewage pond,29/03/2019,18:40,18:44,1,Complete
+Pale Crag Martin,Ptyonoprogne obsoleta,Eilat canal,28/03/2019,14:35,14:54,Present,Complete
+Pale Crag Martin,Ptyonoprogne obsoleta,wadi south of Navit,28/03/2019,06:40,07:35,Present,Complete
+House Martin,Delichon urbicum,Yotvata circular fields,31/03/2019,06:15,09:45,2+,Complete
+Red-rumped Swallow,Cecropis daurica,IBRCE,01/04/2019,18:15,19:30,c30,Complete
+Red-rumped Swallow,Cecropis daurica,Yotvata circular fields,31/03/2019,06:15,09:45,c10,Complete
+Red-rumped Swallow,Cecropis daurica,"Holland Park, Eilat",29/03/2019,06:45,07:40,6,Complete
+Streaked Scrub Warbler,Scotocerca inquieta,wadi south of Navit,28/03/2019,06:40,07:35,Present,Complete
+Willow Warbler,Phylloscopus trochilus,Ezuz grove picnic area,01/04/2019,10:05,11:00,Present,Complete
+Willow Warbler,Phylloscopus trochilus,Navit Pools,28/03/2019,06:05,06:30,Present,Complete
+Chiffchaff,Phylloscopus collybita,Samar,31/03/2019,10:00,10:40,Present,Complete
+Chiffchaff,Phylloscopus collybita,Yotvata circular fields,31/03/2019,06:15,09:45,1,Complete
+Eastern Bonelli's Warbler,Phylloscopus orientalis,Ezuz grove picnic area,01/04/2019,10:05,11:00,Present,Complete
+Eastern Bonelli's Warbler,Phylloscopus orientalis,"Holland Park, Eilat",29/03/2019,06:45,07:40,Present,Complete
+Western/Eastern Bonelli's Warbler,Phylloscopus bonelli/orientalis,Ovda turning R90,28/03/2019,11:40,11:40,1,Incomplete
+Wood Warbler,Phylloscopus sibilatrix,Samar,31/03/2019,10:00,10:40,Present,Complete
+Clamorous Reed Warbler,Acrocephalus stentoreus,Navit Pools,28/03/2019,06:05,06:30,Present,Complete
+Sedge Warbler,Acrocephalus schoenobaenus,IBRCE,31/03/2019,17:20,19:30,Present,Complete
+Sedge Warbler,Acrocephalus schoenobaenus,Yotvata circular fields,31/03/2019,06:15,09:45,2,Complete
+Sedge Warbler,Acrocephalus schoenobaenus,IBRCE,28/03/2019,15:00,15:49,Present,Complete
+Reed Warbler,Acrocephalus scirpaceus,IBRCE,31/03/2019,17:20,19:30,Present,Complete
+Reed Warbler,Acrocephalus scirpaceus,Yotvata circular fields,31/03/2019,06:15,09:45,1,Complete
+Reed Warbler,Acrocephalus scirpaceus,"South Beach, Eilat",29/03/2019,14:20,14:50,1,Complete
+Reed Warbler,Acrocephalus scirpaceus,IBRCE,28/03/2019,15:00,15:49,Present,Complete
+Reed Warbler,Acrocephalus scirpaceus,Navit Pools,28/03/2019,06:05,06:30,Present,Complete
+Eastern Olivaceous Warbler,Iduna pallida,Samar,31/03/2019,10:00,10:40,Present,Complete
+Eastern Olivaceous Warbler,Iduna pallida,Yotvata circular fields,31/03/2019,06:15,09:45,2,Complete
+Eastern Olivaceous Warbler,Iduna pallida,"South Beach, Eilat",29/03/2019,14:20,14:50,2,Complete
+Savi's Warbler,Locustella luscinioides,Yotvata circular fields,31/03/2019,06:15,09:45,1,Complete
+Graceful Prinia,Prinia gracilis,IBRCE,01/04/2019,18:15,19:30,Present,Complete
+Graceful Prinia,Prinia gracilis,IBRCE,31/03/2019,17:20,19:30,Present,Complete
+Graceful Prinia,Prinia gracilis,Yotvata circular fields,31/03/2019,06:15,09:45,Present,Complete
+Graceful Prinia,Prinia gracilis,Km19 sewage pond,29/03/2019,18:40,18:44,Present,Complete
+Graceful Prinia,Prinia gracilis,Km20 saltpans,29/03/2019,16:45,18:30,Present,Complete
+Graceful Prinia,Prinia gracilis,"Holland Park, Eilat",29/03/2019,06:45,07:40,Present,Complete
+Graceful Prinia,Prinia gracilis,IBRCE,28/03/2019,15:00,15:49,Present,Complete
+Graceful Prinia,Prinia gracilis,Navit Pools,28/03/2019,06:05,06:30,Present,Complete
+Arabian Babbler,Turdoides squamiceps,"Holland Park, Eilat",29/03/2019,06:45,07:40,Present,Complete
+Blackcap,Sylvia atricapilla,Km94 R90,02/04/2019,06:40,09:10,1,Complete
+Blackcap,Sylvia atricapilla,Ezuz grove picnic area,01/04/2019,10:05,11:00,c100,Complete
+Blackcap,Sylvia atricapilla,Km20 saltpans,29/03/2019,16:45,18:30,1,Complete
+Blackcap,Sylvia atricapilla,"South Beach, Eilat",29/03/2019,14:20,14:50,c8,Complete
+Blackcap,Sylvia atricapilla,"Holland Park, Eilat",29/03/2019,06:45,07:40,Present,Complete
+Blackcap,Sylvia atricapilla,Ovda turning R90,28/03/2019,11:40,11:40,5,Incomplete
+Blackcap,Sylvia atricapilla,wadi south of Navit,28/03/2019,06:40,07:35,Present,Complete
+Blackcap,Sylvia atricapilla,R90 Dead Sea to Eilat,28/03/2019,06:00,14:30,Present,Incomplete
+Blackcap,Sylvia atricapilla,Neve Zohar,28/03/2019,05:25,05:44,Present,Complete
+Lesser Whitethroat,Sylvia curruca,Km94 R90,02/04/2019,06:40,09:10,Present,Complete
+Lesser Whitethroat,Sylvia curruca,IBRCE,01/04/2019,18:15,19:30,Present,Complete
+Lesser Whitethroat,Sylvia curruca,Meyshar,01/04/2019,14:10,14:44,c10,Complete
+Lesser Whitethroat,Sylvia curruca,Ezuz grove picnic area,01/04/2019,10:05,11:00,Present,Complete
+Lesser Whitethroat,Sylvia curruca,IBRCE,31/03/2019,17:20,19:30,Present,Complete
+Lesser Whitethroat,Sylvia curruca,Samar,31/03/2019,10:00,10:40,Present,Complete
+Lesser Whitethroat,Sylvia curruca,Yotvata circular fields,31/03/2019,06:15,09:45,100+,Complete
+Lesser Whitethroat,Sylvia curruca,Eilat mountains,30/03/2019,06:40,08:50,1,Incomplete
+Lesser Whitethroat,Sylvia curruca,Km20 saltpans,29/03/2019,16:45,18:30,2,Complete
+Lesser Whitethroat,Sylvia curruca,"South Beach, Eilat",29/03/2019,14:20,14:50,1,Complete
+Lesser Whitethroat,Sylvia curruca,"Holland Park, Eilat",29/03/2019,06:45,07:40,Present,Complete
+Lesser Whitethroat,Sylvia curruca,IBRCE,28/03/2019,15:00,15:49,Present,Complete
+Lesser Whitethroat,Sylvia curruca,Yotvata circular fields,28/03/2019,12:50,13:45,Present,Complete
+Lesser Whitethroat,Sylvia curruca,wadi south of Navit,28/03/2019,06:40,07:35,Present,Complete
+Lesser Whitethroat,Sylvia curruca,R90 Dead Sea to Eilat,28/03/2019,06:00,14:30,Present,Incomplete
+Eastern Orphean Warbler,Sylvia crassirostris,Km94 R90,02/04/2019,06:40,09:10,1,Complete
+Whitethroat,Sylvia communis,Meyshar,01/04/2019,14:10,14:44,1,Complete
+Subalpine Warbler (albistriata),Sylvia cantillans albistriata,Yotvata circular fields,28/03/2019,12:50,13:45,Present,Complete
+Rüppell's Warbler,Sylvia ruppeli,Km94 R90,02/04/2019,06:40,09:10,2,Complete
+Rüppell's Warbler,Sylvia ruppeli,Nizzana,01/04/2019,07:25,09:59,2,Complete
+Rüppell's Warbler,Sylvia ruppeli,"Holland Park, Eilat",29/03/2019,06:45,07:40,1,Complete
+Common Myna,Acridotheres tristis,Neve Zohar,28/03/2019,05:25,05:44,Present,Complete
+Common Myna,Acridotheres tristis,Tel Aviv Ben Gurion airport,27/03/2019,14:40,15:59,Present,Incomplete
+Tristram's Starling,Onychognathus tristramii,R90 Dead Sea to Eilat,28/03/2019,06:00,14:30,Present,Incomplete
+Tristram's Starling,Onychognathus tristramii,Neve Zohar,28/03/2019,05:25,05:44,Present,Complete
+Black Scrub Robin,Cercotrichas podobe,Samar,31/03/2019,10:00,10:40,2,Complete
+Bluethroat,Luscinia svecica,"South Beach, Eilat",29/03/2019,14:20,14:50,1,Complete
+Nightingale,Luscinia megarhynchos,Ezuz grove picnic area,01/04/2019,10:05,11:00,2,Complete
+Nightingale,Luscinia megarhynchos,"South Beach, Eilat",30/03/2019,22:00,22:00,1,Incomplete
+Nightingale,Luscinia megarhynchos,"Holland Park, Eilat",29/03/2019,06:45,07:40,1,Complete
+Collared Flycatcher,Ficedula albicollis,"South Beach, Eilat",01/04/2019,17:50,17:50,1,Incomplete
+Semicollared Flycatcher,Ficedula semitorquata,Avdat,01/04/2019,13:15,13:15,2,Incomplete
+Redstart,Phoenicurus phoenicurus,Ezuz grove picnic area,01/04/2019,10:05,11:00,1,Complete
+Siberian Stonechat,Saxicola maurus,Meyshar,01/04/2019,14:10,14:44,2,Complete
+Wheatear,Oenanthe oenanthe,Km94 R90,02/04/2019,06:40,09:10,c4,Complete
+Wheatear,Oenanthe oenanthe,Meyshar,01/04/2019,14:10,14:44,2,Complete
+Wheatear,Oenanthe oenanthe,Nizzana,01/04/2019,07:25,09:59,20+,Complete
+Wheatear,Oenanthe oenanthe,Yotvata circular fields,31/03/2019,06:15,09:45,2,Complete
+Wheatear,Oenanthe oenanthe,Km94 R90,28/03/2019,09:00,11:15,c10,Complete
+Isabelline Wheatear,Oenanthe isabellina,Km94 R90,02/04/2019,06:40,09:10,3,Complete
+Isabelline Wheatear,Oenanthe isabellina,Nizzana,01/04/2019,07:25,09:59,1,Complete
+Isabelline Wheatear,Oenanthe isabellina,Km94 R90,28/03/2019,09:00,11:15,1,Complete
+Black-eared Wheatear,Oenanthe hispanica,Km94 R90,02/04/2019,06:40,09:10,Present,Complete
+Black-eared Wheatear,Oenanthe hispanica,Ezuz grove picnic area,01/04/2019,10:05,11:00,Present,Complete
+Black-eared Wheatear,Oenanthe hispanica,Nizzana,01/04/2019,07:25,09:59,1,Complete
+Black-eared Wheatear,Oenanthe hispanica,Km94 R90,28/03/2019,09:00,11:15,1+,Complete
+Black-eared Wheatear,Oenanthe hispanica,wadi south of Navit,28/03/2019,06:40,07:35,Present,Complete
+Blackstart,Oenanthe melanura,Eilat mountains,30/03/2019,06:40,08:50,3,Incomplete
+Blackstart,Oenanthe melanura,"Holland Park, Eilat",29/03/2019,06:45,07:40,Present,Complete
+Blackstart,Oenanthe melanura,Ovda turning R90,28/03/2019,11:40,11:40,Present,Incomplete
+Blackstart,Oenanthe melanura,wadi south of Navit,28/03/2019,06:40,07:35,Present,Complete
+White-crowned Black Wheatear,Oenanthe leucopyga,Eilat mountains,30/03/2019,06:40,08:50,4+,Incomplete
+Finsch's Wheatear,Oenanthe finschii,R90 Dead Sea to Eilat,28/03/2019,06:00,14:30,1,Incomplete
+Palestine Sunbird,Cinnyris osea,Eilat mountains,30/03/2019,06:40,08:50,Present,Incomplete
+Palestine Sunbird,Cinnyris osea,wadi south of Navit,28/03/2019,06:40,07:35,Present,Complete
+Palestine Sunbird,Cinnyris osea,Neve Zohar,28/03/2019,05:25,05:44,Present,Complete
+House Sparrow,Passer domesticus,IBRCE,01/04/2019,18:15,19:30,Present,Complete
+House Sparrow,Passer domesticus,Km2 saltpans,01/04/2019,17:50,18:09,Present,Complete
+House Sparrow,Passer domesticus,Ezuz,01/04/2019,11:05,11:50,Present,Complete
+House Sparrow,Passer domesticus,Ezuz grove picnic area,01/04/2019,10:05,11:00,Present,Complete
+House Sparrow,Passer domesticus,Nizzana,01/04/2019,07:25,09:59,Present,Complete
+House Sparrow,Passer domesticus,IBRCE,31/03/2019,17:20,19:30,Present,Complete
+House Sparrow,Passer domesticus,Eilat canal,31/03/2019,16:45,16:49,Present,Complete
+House Sparrow,Passer domesticus,Samar,31/03/2019,10:00,10:40,Present,Complete
+House Sparrow,Passer domesticus,Yotvata circular fields,31/03/2019,06:15,09:45,c30,Complete
+House Sparrow,Passer domesticus,Km19 sewage pond,29/03/2019,18:40,18:44,Present,Complete
+House Sparrow,Passer domesticus,Km20 saltpans,29/03/2019,16:45,18:30,Present,Complete
+House Sparrow,Passer domesticus,"South Beach, Eilat",29/03/2019,14:20,14:50,Present,Complete
+House Sparrow,Passer domesticus,"Holland Park, Eilat",29/03/2019,06:45,07:40,Present,Complete
+House Sparrow,Passer domesticus,IBRCE,28/03/2019,15:00,15:49,Present,Complete
+House Sparrow,Passer domesticus,Eilat canal,28/03/2019,14:35,14:54,Present,Complete
+House Sparrow,Passer domesticus,Yotvata Sewage Works,28/03/2019,13:50,13:50,Present,Incomplete
+House Sparrow,Passer domesticus,Neve Zohar,28/03/2019,05:25,05:44,Present,Complete
+House Sparrow,Passer domesticus,North Israel (Tel Aviv to Dead Sea),27/03/2019,16:00,18:00,Present,Incomplete
+Spanish Sparrow,Passer hispaniolensis,Km94 R90,02/04/2019,06:40,09:10,1,Complete
+Spanish Sparrow,Passer hispaniolensis,Ezuz,01/04/2019,11:05,11:50,Present,Complete
+Spanish Sparrow,Passer hispaniolensis,Nizzana,01/04/2019,07:25,09:59,Present,Complete
+Spanish Sparrow,Passer hispaniolensis,Samar,31/03/2019,10:00,10:40,Present,Complete
+Spanish Sparrow,Passer hispaniolensis,Yotvata circular fields,31/03/2019,06:15,09:45,c500,Complete
+Spanish Sparrow,Passer hispaniolensis,"Holland Park, Eilat",29/03/2019,06:45,07:40,Present,Complete
+Dead Sea Sparrow,Passer moabiticus,Navit Pools,28/03/2019,06:05,06:30,Present,Complete
+Pale Rockfinch,Carpospiza brachydactyla,Ezuz,01/04/2019,11:05,11:50,1,Complete
+Pale Rockfinch,Carpospiza brachydactyla,Nizzana,01/04/2019,07:25,09:59,4,Complete
+Yellow Wagtail,Motacilla flava,Km94 R90,02/04/2019,06:40,09:10,1+,Complete
+Yellow Wagtail,Motacilla flava,IBRCE,01/04/2019,18:15,19:30,Present,Complete
+Yellow Wagtail,Motacilla flava,Meyshar,01/04/2019,14:10,14:44,c50,Complete
+Yellow Wagtail,Motacilla flava,Eilat canal,31/03/2019,16:45,16:49,Present,Complete
+Yellow Wagtail,Motacilla flava,Yotvata circular fields,31/03/2019,06:15,09:45,100+,Complete
+Yellow Wagtail,Motacilla flava,Km19 sewage pond,29/03/2019,18:40,18:44,Present,Complete
+Yellow Wagtail,Motacilla flava,"Holland Park, Eilat",29/03/2019,06:45,07:40,Present,Complete
+Yellow Wagtail,Motacilla flava,Eilat canal,28/03/2019,14:35,14:54,Present,Complete
+Yellow Wagtail,Motacilla flava,Km94 R90,28/03/2019,09:00,11:15,Present,Complete
+Yellow Wagtail (Blue-headed - flava),Motacilla flava flava,Meyshar,01/04/2019,14:10,14:44,Present,Complete
+Yellow Wagtail (Black-headed - feldegg),Motacilla flava feldegg,Meyshar,01/04/2019,14:10,14:44,Present,Complete
+Yellow Wagtail (Black-headed - feldegg),Motacilla flava feldegg,Eilat canal,31/03/2019,16:45,16:49,Present,Complete
+White Wagtail (alba),Motacilla alba alba,Ezuz grove picnic area,01/04/2019,10:05,11:00,Present,Complete
+White Wagtail (alba),Motacilla alba alba,IBRCE,31/03/2019,17:20,19:30,Present,Complete
+White Wagtail (alba),Motacilla alba alba,Eilat canal,31/03/2019,16:45,16:49,Present,Complete
+White Wagtail (alba),Motacilla alba alba,Yotvata circular fields,31/03/2019,06:15,09:45,10+,Complete
+White Wagtail (alba),Motacilla alba alba,Km19 sewage pond,29/03/2019,18:40,18:44,Present,Complete
+White Wagtail (alba),Motacilla alba alba,Km20 saltpans,29/03/2019,16:45,18:30,Present,Complete
+White Wagtail (alba),Motacilla alba alba,"Holland Park, Eilat",29/03/2019,06:45,07:40,Present,Complete
+White Wagtail (alba),Motacilla alba alba,IBRCE,28/03/2019,15:00,15:49,Present,Complete
+White Wagtail (alba),Motacilla alba alba,Eilat canal,28/03/2019,14:35,14:54,Present,Complete
+White Wagtail (alba),Motacilla alba alba,Navit Pools,28/03/2019,06:05,06:30,Present,Complete
+Tawny Pipit,Anthus campestris,Km94 R90,02/04/2019,06:40,09:10,1,Complete
+Tawny Pipit,Anthus campestris,Nizzana,01/04/2019,07:25,09:59,1,Complete
+Tawny Pipit,Anthus campestris,Yotvata circular fields,31/03/2019,06:15,09:45,2,Complete
+Tawny Pipit,Anthus campestris,Km94 R90,28/03/2019,09:00,11:15,1,Complete
+Tree Pipit,Anthus trivialis,Km94 R90,02/04/2019,06:40,09:10,Present,Complete
+Tree Pipit,Anthus trivialis,Nizzana,01/04/2019,07:25,09:59,1,Complete
+Tree Pipit,Anthus trivialis,Km2 saltpans,31/03/2019,16:20,16:30,3,Complete
+Tree Pipit,Anthus trivialis,Yotvata circular fields,31/03/2019,06:15,09:45,Present,Complete
+Red-throated Pipit,Anthus cervinus,Meyshar,01/04/2019,14:10,14:44,1,Complete
+Red-throated Pipit,Anthus cervinus,Yotvata circular fields,31/03/2019,06:15,09:45,4,Complete
+Desert Finch,Rhodospiza obsoleta,Avdat,01/04/2019,13:15,13:15,1,Incomplete
+Desert Finch,Rhodospiza obsoleta,Ezuz,01/04/2019,11:05,11:50,1,Complete
+Desert Finch,Rhodospiza obsoleta,Yotvata circular fields,31/03/2019,06:15,09:45,3,Complete
+Corn Bunting,Emberiza calandra,Nizzana,01/04/2019,11:50,11:50,Present,Incomplete
+Corn Bunting,Emberiza calandra,Nizzana,01/04/2019,07:25,09:59,3,Complete
+Ortolan Bunting,Emberiza hortulana,Km94 R90,02/04/2019,06:40,09:10,2,Complete
+Ortolan Bunting,Emberiza hortulana,Meyshar,01/04/2019,14:10,14:44,1,Complete
+Ortolan Bunting,Emberiza hortulana,"South Beach, Eilat",01/04/2019,04:05,04:05,1+,Incomplete
+Ortolan Bunting,Emberiza hortulana,Km94 R90,28/03/2019,09:00,11:15,1,Complete
+Cretzschmar's Bunting,Emberiza caesia,Ezuz,01/04/2019,11:05,11:50,1,Complete
+Cretzschmar's Bunting,Emberiza caesia,wadi south of Navit,28/03/2019,06:40,07:35,Present,Complete
