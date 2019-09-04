@@ -36,9 +36,11 @@ vignettes/*.pdf
 rsconnect/
 .Rproj.user
 
+# images
+*.png
+*.jpg
+*.pdf
 
-/data_processed
-/data_downloads
+
 /docs
-/results
 /trash

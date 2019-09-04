@@ -1,0 +1,1 @@
+folder to hold raw data used in the exercises
